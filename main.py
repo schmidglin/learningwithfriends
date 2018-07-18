@@ -3,7 +3,7 @@ def hello():
 
 print(hello())
 
-name = {'dave'}
+name = ('dave')
 
 def goodbye(name):
     return("Goodbye, {}. We'll miss you!").format(name)
